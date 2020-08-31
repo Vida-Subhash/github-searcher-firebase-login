@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "signup-b0084": {
+      "hosting": {
+        "github-login-firebase": [
+          "signup-b0084"
+        ]
+      }
+    }
+  }
+}
